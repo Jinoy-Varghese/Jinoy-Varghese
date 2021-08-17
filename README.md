@@ -31,31 +31,28 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aassembly"><img alt="MIPS Assembly" src="https://img.shields.io/badge/Assembly%20-%23525252.svg?logo=mega&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acsharp"><img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?logo=c-sharp&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aceylon"><img alt="Ceylon" src="https://img.shields.io/badge/Ceylon%20-%23E39842.svg?logo=gradle&logoColor=white"></a>
+
+   
+   
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart%20-%2315A6C4.svg?logo=dart&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ags"><img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script%20-%2302569B.svg?logo=google-cloud&logoColor=white"></a>
+
+    
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=Kotlin&logoColor=white"></a>
+   
+    
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+   
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aprolog"><img alt="Prolog" src="https://img.shields.io/badge/Prolog-%23E61B23.svg?logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAklQTFRFAAAA%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b%2fv7%2b8y1HZgAAAMN0Uk5TAASp%2fN6KDAh%2b2vu8J%2fD%2fxxMxiNno6dzAkT0PuPc0Du7%2b7%2bIWCtbfFeHqHlf60nxfc8H9xmpMVpbzcjPgATrb8QMdsyDFQq6TkhxcPAJYqgU1OJos0C5e9AtA%2bbIJm0XJGK87GtjPJAbDtN13ib7IF0YhkIfRuYsj6yoUZhBPPrvODURO5Z42Q%2bzUXYRN11spYS9Rv26xuqiGvTnK9VISxI3mK6ehevatoMKwYntv5%2b2DpTd%2fbauUzLY%2f1REHWShHZ3VLF0%2bgJQAAAp1JREFUeJxtkos%2fk2EUx89auQwnarZi7Uq5TFiZyrLVasIWuc02Jcp9GVIplVpTKLq6ZXQnQuleJPnLep733dpY5%2fN5n8v5fZ%2fP%2b5zn%2fABIcDZwN24KAr8IDgnlhQX79uERiJsjo7aEbeVHC4TbtsfEIop2%2bB0QhyKiRIrekJFPrvAD4uIxIHZG%2bgG7EgKBxCQ%2fIFmZsjs1LV3FStI9ezPUmfv2%2b%2fQDWckcMmkOZlNdq9bR5KHDGV5df%2bSodyUnt%2ffmxQZvHTnHNGTMzcs3gkmFx%2bn5gsJwDZwo0jB6cUkpGcvMfJGhXCFXWWgqW2a1iStOnmKAkMrTAIqEquozZ9W6mohagLr6hmp9YxPYM6muOdfsIG8pb2mFtvPGoipSnaO9RQ85F%2bBiiZgAlxo7LgNcaeyEqyXXrtu68oxQcaMMYtrtN22J%2bQRwStBOpluSGlf3bS2i0gRwp6dS3utwmpV9RFGLMILW43CWGu%2fSdxCSTZLpXpCiH7GTrAesiPwW5rr32yhQ%2f6CAbh6mIAs8MpMF73GT6cmgaEhCHmpYKihqGhm1ogd4yvc1SGtDHHP59u5xAkw8e96eJbOymTG%2b2fCvnS8Gu17Sn70K5ca%2f1r7pp8nJKWEinflvXYZu7vQM07Z3btrmbNZPzcNsxyvdUi7iLHP33Jk5%2fuiYxwsqlfcH8%2b8%2fLHxku7kgw3RBgOM%2b4fwUhwU%2bzyu5gZYjBds9frAM5fwHUH352ucBWgXSb98D9F6l64cHmPgZu8gZcK%2fR0y3BI%2fIoD7A4Ww5LDcyx6EneJFNHygTofi37Gb9YhJIeVP0GWDajrAOl47A2LLy5As6KdQWgkPunjpMqSlsH1AqXiJenycvo6%2bMAdF2WdYBxlY5ldcSjq9TsA0se4S9v8KHb4iWueAAAAABJRU5ErkJggg%3d%3d"></a>
+   
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
+    
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch%20-%234D97FF.svg?logo=scratch&logoColor=white"></a>
+   
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML%20-%23e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?logo=typescript&logoColor=white"></a>
+
 </p>
 
 ### 🧰 Frameworks and libraries
