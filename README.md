@@ -48,7 +48,6 @@
 <p>
     <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/-Jquery-00979D?logo=JQuery&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-5C2D91?logo=Bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/Electron%20-%2320232e.svg?logo=electron&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter%20-FB542B.svg?logo=CodeIgniter&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
@@ -66,10 +65,8 @@
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Infinityfree" src="https://img.shields.io/badge/Infinityfree%20-%23010101.svg?logo=Infinityree&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="GoDaddy" src="https://img.shields.io/badge/GoDaddy%20-%2334A853.svg?logo=godaddy&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel%20-%23000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
