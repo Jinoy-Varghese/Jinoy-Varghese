@@ -11,8 +11,8 @@
 <p align="center">
   <a href="https://www.youtube.com/c/cspsyco?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=youtube&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/cspsyco">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=youtube&style=for-the-badge&labelColor=C79600"/></a> 
+  <a href="https://www.facebook.com/profile.php?id=100006883817962">
+    <img alt="facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
   <a href="https://twitter.com/jinoy_varghese">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/jinoy_varghese?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Jinoy-Varghese">
