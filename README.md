@@ -17,9 +17,9 @@
   <a href="https://twitter.com/jinoy_varghese">
     <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/Jinoy-Varghese">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Jinoy-Varghese">
-    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Jinoy-Varghese?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://www.instagram.com/jinoy_varghese/">
+    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Jinoy_Varghese-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
