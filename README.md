@@ -88,4 +88,9 @@
 ### Achivements
 
 
-<img alt="figma" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinoy-Varghese&layout=compact">
+<img alt="jinoy stat 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinoy-Varghese&layout=compact">
+<img alt="jinoy stat 2" src="https://github-readme-stats.vercel.app/api?username=Jinoy-Varghese&show_icons=true">
+
+
+
+
