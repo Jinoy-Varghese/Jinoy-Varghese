@@ -48,7 +48,7 @@
 <p>
     <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/-Jquery-00979D?logo=JQuery&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-5C2D91?logo=Bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></a>
+    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%2331A8FF.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter%20-FB542B.svg?logo=CodeIgniter&logoColor=white"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV%20-%23013243.svg?logo=OpenCV&logoColor=white"></a>
@@ -83,6 +83,9 @@
     <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?logo=adobephotoshop&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"></a>
+
+  
 </p>
 
 
