@@ -88,8 +88,8 @@
 ### Achivements
 
 <p>
-<img alt="jinoy stat 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinoy-Varghese&layout=compact">
-<img alt="jinoy stat 2" src="https://github-readme-stats.vercel.app/api?username=Jinoy-Varghese&show_icons=true">
+<img alt="jinoy stat 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinoy-Varghese&layout=compact" width="45%">
+<img alt="jinoy stat 2" src="https://github-readme-stats.vercel.app/api?username=Jinoy-Varghese&show_icons=true" width="45%">
 </p>
 
 
