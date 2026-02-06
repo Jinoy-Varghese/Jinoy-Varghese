@@ -74,8 +74,8 @@ A dynamic **Software Engineer** and **SAP Technical Consultant** with a proven t
 
 ### 🏆 Achievements & Stats
 
-<p>
-<img alt="jinoy stat 1" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinoy-Varghese&layout=compact" width="46%" height="185px">
- &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="jinoy stat 2" src="https://github-readme-stats.vercel.app/api?username=Jinoy-Varghese&show_icons=true" width="48%" height="200px">
-</p>
+### 🏆 Achievements & Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinoy-Varghese&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jinoy-Varghese&show_icons=true&theme=radical)
